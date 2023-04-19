@@ -5,8 +5,7 @@
 
 ![oTiagoGs GitHub stats](https://github-readme-stats.vercel.app/api?username=oTiagoGs&show_icons=true&theme=dark)
 
-### Skills:
-
+### Minhas skills:<hr>
 <div style="display: inline_block"><br/>
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img align="center" alt="Ruby" src=https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white />
